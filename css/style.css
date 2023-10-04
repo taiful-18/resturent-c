@@ -1,0 +1,534 @@
+body {}
+
+.fast_logo {}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+}
+
+.munu_item {
+    margin-left: 134px;
+    font-size: 31px;
+    color: #FEA116 !important;
+    font-weight: 800;
+}
+
+.munu_item1 {
+    font-size: 21px;
+    margin-left: 10px;
+    margin-top: 11px;
+    color: white !important;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+
+
+
+.banear {
+    background: url(../images/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banear-bg {
+    background: #0f172be6;
+}
+
+.banear_hader {
+    color: white;
+    font-size: 74px;
+    margin-top: 89px;
+    text-transform: capitalize;
+}
+
+.banear_contant {
+    color: white;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.banear_button {
+    padding: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #FEA116;
+    color: white;
+    border: none;
+}
+
+.banear_images {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.service_contant {}
+
+.service_contant i {
+    font-size: 65px;
+    color: #FEA116;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.service_contant h1 {
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.service_contant p {
+    margin-top: 6px;
+    font-weight: 600;
+    margin-bottom: 28px;
+}
+
+.service_contant {
+    background: #ddd9d99e;
+    border: 2px solid white;
+}
+
+.service_part {}
+
+.about {}
+
+.about_images {
+    width: 100%;
+    margin-top: 14px;
+}
+
+.about_images_down {
+    margin-top: 100px;
+    width: 90%;
+}
+
+.about_images_down_3 {
+    margin-top: -42px;
+    width: 90%;
+    margin-left: 34px;
+}
+
+.about_contant {}
+
+.about_contant h1 {
+    margin-top: 48px;
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+    color: #FEA116;
+}
+
+.about_contant h2 {
+    margin-top: 16px;
+    font-size: 48px;
+}
+
+.about_contant p {
+    font-weight: 600;
+    margin-top: 14px;
+}
+
+.item_menu {}
+
+.i_menu_hading {}
+
+.i_menu_hading h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+    color: #FEA116;
+    text-align: center;
+    margin-top: 62px;
+    text-transform: capitalize;
+}
+
+.i_menu_hading h2 {
+    text-align: center;
+    margin-top: 15px;
+    text-transform: capitalize;
+    font-size: 43px;
+    font-weight: 900;
+}
+
+.food_nav {}
+
+.food_nav nav {}
+
+.food_nav nav ul {}
+
+.food_nav nav ul li {
+    display: inline;
+    margin-left: 2px;
+}
+
+.food_nav nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 800;
+    color: black;
+    padding: 10px;
+}
+
+.food_nav nav ul li a:hover {}
+
+.tow_nav_color {
+    color: orange !important;
+    border-bottom: 2px solid orange;
+}
+
+.menu_food {}
+
+.menu_food img {}
+
+.menu_food h1 {
+    margin-top: -80px;
+    margin-left: 102px;
+    font-size: 23px;
+    color: #0F172B;
+}
+
+.menu_food h6 {
+    color: #FEA116;
+    margin-left: 105px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 9px;
+}
+
+.menu_food p {
+    margin-top: 0px;
+    margin-left: 104px;
+}
+
+.menu_contant_item {
+    margin-top: 41px;
+}
+
+.online_bokking {
+    margin-top: 60px;
+    width: 99%;
+}
+
+.online_bokking_images {
+    width: 100%;
+}
+
+.online_input_groop {
+    background: #0F172B;
+}
+
+.online_bokking_hading {
+    margin-bottom: 22px;
+}
+
+.online_bokking_hading h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: #FEA116;
+    text-transform: capitalize;
+    margin-top: 32px;
+}
+
+.online_bokking_hading h2 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 42px;
+    margin-top: 7px;
+}
+
+.input_name_email {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    margin-bottom: 14px;
+}
+
+.select_option {}
+
+.select_option select {
+    padding: 10px;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.select_option option {}
+
+.req-i_o_stylw {
+    padding-left: 9px;
+    padding-top: 13px;
+    padding-bottom: 60px;
+    padding-right: 30px;
+}
+
+.online_button {}
+
+.online_button button {
+    padding: 12px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #FEA116;
+    color: white;
+    border: none;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.teem {
+    margin-top: 57px;
+}
+
+.teem_hading {}
+
+.teem_hading h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: #FEA116;
+    text-transform: capitalize;
+    margin-top: 32px;
+    text-align: center;
+}
+
+.teem_hading h2 {
+    color: black;
+    text-transform: capitalize;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 14px;
+}
+
+.teem_item_i {
+    text-align: center;
+}
+
+.teem_item_i img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.teem_item_i h1 {
+    text-transform: capitalize;
+    font-size: 25px;
+    margin-top: 16px;
+}
+
+.last {
+
+    background: #0F172B;
+
+    margin-top: 51px;
+}
+
+.last_u_company {}
+
+.last_u_company h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: #FEA116;
+    text-transform: capitalize;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.last_u_company a {
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.last_u_company h6 {
+    margin-top: 5px;
+}
+
+.last_u_contact {}
+
+.last_u_contact h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: #FEA116;
+    text-transform: capitalize;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.last_u_contact h4 {
+    margin-top: 12px;
+    color: white;
+}
+
+.last_u_contact h4 i {
+    margin-right: 11px;
+}
+
+.last_icon_all {
+    margin-top: 17px;
+}
+.last_icon_all i{
+    color: white;
+    font-size: 24px;
+    padding: 14px;
+    background: transparent;
+    border: 1px solid wheat;
+    border-radius: 50px;
+}
+
+.last_u_opening {}
+.last_u_opening h4{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+}
+.last_u_opening h3{
+    text-transform: capitalize;
+    color: white;
+    font-size: 35px;
+}
+.last_u_opening h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: #FEA116;
+    text-transform: capitalize;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {}
+
+.fast_logo {
+    text-transform: uppercase;
+    font-size: 37px;
+    color: #FEA116 !important;
+}
